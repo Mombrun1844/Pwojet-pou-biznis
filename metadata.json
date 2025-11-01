@@ -1,0 +1,5 @@
+{
+  "name": "Système de Point de Vente Haïtien",
+  "description": "Une application web moderne pour gérer un point de vente en Haïti avec suivi des stocks, des ventes et des notifications. La monnaie utilisée est la Gourde Haïtienne (HTG).",
+  "requestFramePermissions": []
+}
